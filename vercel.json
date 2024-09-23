@@ -1,7 +1,7 @@
 {
   "builds": [
     {
-      "src": "HyBase-Api/main.py",
+      "src": "./main.py",
       "use": "@vercel/python"
     }
   ],
